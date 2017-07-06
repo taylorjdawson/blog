@@ -67,5 +67,5 @@ theme: standrews
 
 deploy:
   type: git
-  repo: https://github.com/taylorjdawson/blog.git
+  repo: https://github.com/taylorjdawson/blog
   branch: gh-pages
