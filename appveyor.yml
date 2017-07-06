@@ -4,8 +4,8 @@ branches:
 init:
   - git config --global core.autocrlf true
 environment:
-  access_token:
-    secure: 56AsFWvntdIrtor5OhcxFxcYTqzkqVgD8e8sgDOPmE9KWblNFgEZ0AT4xMtAPgIB
+  my_variable:
+    secure: Hy1RgaQWfBjpit6uxw2nMS1ReQOropCG0wHNE/ao+yTrsZb6c6Fmp29Lc6zUMQeV
 install:
   - npm install -g npm
   - npm install -g hexo-cli
